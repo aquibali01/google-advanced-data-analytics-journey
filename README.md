@@ -43,7 +43,7 @@ What you'll find
 Connect with me
 
 LinkedIn
-linkedin.com/in/yourprofile
+linkedin.com/in/aqreal0
 
 GitHub
 github.com/aquibali01
